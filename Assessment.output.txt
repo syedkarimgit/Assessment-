@@ -1,0 +1,7 @@
+Id	: 1
+Name	: syed
+Age	: 26
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
